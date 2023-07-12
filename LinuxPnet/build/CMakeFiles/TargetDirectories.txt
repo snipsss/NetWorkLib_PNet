@@ -1,0 +1,4 @@
+/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles/Server.dir
+/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles/Client.dir
+/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles/edit_cache.dir
+/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles/rebuild_cache.dir

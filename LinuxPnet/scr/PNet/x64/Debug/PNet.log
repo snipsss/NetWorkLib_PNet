@@ -1,0 +1,3 @@
+﻿D:\c++\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\users\acer\source\repos\pnet\x64\debug\pnet.lib' because it is being used by another process.
+  CallSource.cpp
+  PNet.vcxproj -> C:\Users\acer\source\repos\PNet\x64\Debug\PNet.lib

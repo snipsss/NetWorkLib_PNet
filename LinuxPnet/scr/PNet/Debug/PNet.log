@@ -1,0 +1,9 @@
+﻿  IpEndPointr.cpp
+  MyClassSocket.cpp
+  NetWork.cpp
+  Package.cpp
+  ValidatorIP.cpp
+C:\Users\acer\source\repos\PNet\PNet\ValidatorIP.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\source\repos\PNet\PNet\ValidatorIP.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\source\repos\PNet\PNet\MyClassSocket.cpp(214,67): warning C4267: 'argument': conversion from 'size_t' to 'u_short', possible loss of data
+  PNet.vcxproj -> C:\Users\acer\source\repos\PNet\Debug\PNet.lib

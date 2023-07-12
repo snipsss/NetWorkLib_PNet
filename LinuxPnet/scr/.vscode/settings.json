@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "socket": "cpp",
+        "ostream": "cpp"
+    }
+}

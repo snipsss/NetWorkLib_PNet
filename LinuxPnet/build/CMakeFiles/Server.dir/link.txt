@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Server.dir/Server/Source.cpp.o CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o CMakeFiles/Server.dir/PNet/NetWork.cpp.o CMakeFiles/Server.dir/PNet/Package.cpp.o CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o -o bin/Server 
