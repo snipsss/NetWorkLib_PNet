@@ -1,3 +1,6 @@
+Main ---> Windows Software
+Master ----> Linux Sofware
+
 NetWork Library PNet writen on c++.The program use blocking soctets beetween OS Windows and Linux for passsing network packets type int,std::string and std::vector<uint32_t>/ std::vector<uint16_t> depends of your OS,
 aslo, this programm has thow project inside Server and client cluster and you can run any On your OS (MacOS is the exeption), but comming soon.
 this is a screens how it works.
