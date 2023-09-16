@@ -47,9 +47,9 @@ int main()
 		if (socket.Create() == Result::P_sucksess)
 		{
 			std::cout << "Socket succsessfully created!" << std::endl;
-			if (socket.Listen(IpEndPoint("0.0.0.0", 5000)) == Result::P_sucksess)
+			if (socket.Listen(IpEndPoint("0.0.0.0",5000)) == Result::P_sucksess)
 			{
-				std::cout << "Socket successfully listening on: 4023" << std::endl;
+				std::cout << "Socket successfully listening on: 5000" << std::endl;
 				Socket newConnection;
 				if(socket.Accpet(newConnection) == Result::P_sucksess)
 				{
@@ -75,7 +75,7 @@ int main()
 			}
 			else
 			{
-				std::cerr << "Failed listening on port 4032!" << std::endl;
+				std::cerr << "Failed listening on port 5000" << std::endl;
 			}
 		}
 	}

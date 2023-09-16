@@ -1,14 +1,14 @@
 CMakeFiles/Server.dir/Server/Source.cpp.o: \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Server/Source.cpp \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Server/Source.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/includeME.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/SocketHandle.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Presult.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpVersion.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/SocketOption.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/includeME.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/SocketHandle.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Presult.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpVersion.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/SocketOption.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -180,8 +180,8 @@ CMakeFiles/Server.dir/Server/Source.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h /usr/include/netinet/tcp.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Сonstant.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/PacketExc.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/PacketType.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.h
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Сonstant.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/PacketExc.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/PacketType.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.h
