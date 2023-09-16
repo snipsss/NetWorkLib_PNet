@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Client/SourceClient.cpp" "CMakeFiles/Client.dir/Client/SourceClient.cpp.o" "gcc" "CMakeFiles/Client.dir/Client/SourceClient.cpp.o.d"
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.cpp" "CMakeFiles/Client.dir/PNet/IpEndPointr.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/IpEndPointr.cpp.o.d"
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.cpp" "CMakeFiles/Client.dir/PNet/MyClassSocket.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/MyClassSocket.cpp.o.d"
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp" "CMakeFiles/Client.dir/PNet/NetWork.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/NetWork.cpp.o.d"
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp" "CMakeFiles/Client.dir/PNet/Package.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/Package.cpp.o.d"
-  "/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.cpp" "CMakeFiles/Client.dir/PNet/ValidatorIP.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/ValidatorIP.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Client/SourceClient.cpp" "CMakeFiles/Client.dir/Client/SourceClient.cpp.o" "gcc" "CMakeFiles/Client.dir/Client/SourceClient.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.cpp" "CMakeFiles/Client.dir/PNet/IpEndPointr.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/IpEndPointr.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.cpp" "CMakeFiles/Client.dir/PNet/MyClassSocket.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/MyClassSocket.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp" "CMakeFiles/Client.dir/PNet/NetWork.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/NetWork.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp" "CMakeFiles/Client.dir/PNet/Package.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/Package.cpp.o.d"
+  "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.cpp" "CMakeFiles/Client.dir/PNet/ValidatorIP.cpp.o" "gcc" "CMakeFiles/Client.dir/PNet/ValidatorIP.cpp.o.d"
   )
 
 # Targets to which this target links.

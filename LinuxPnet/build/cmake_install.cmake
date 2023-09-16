@@ -1,4 +1,4 @@
-# Install script for directory: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr
+# Install script for directory: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

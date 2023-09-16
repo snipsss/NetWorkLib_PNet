@@ -1,7 +1,7 @@
 CMakeFiles/Server.dir/PNet/Package.cpp.o: \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.h \
  /usr/include/arpa/inet.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -170,6 +170,6 @@ CMakeFiles/Server.dir/PNet/Package.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/PacketExc.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/PacketType.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Сonstant.h
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/PacketExc.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/PacketType.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Сonstant.h

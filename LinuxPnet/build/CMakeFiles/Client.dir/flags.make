@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/valeriikupriianov/Desktop/WIndowsPNetLib/scr
+CXX_INCLUDES = -I/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr
 
 CXX_FLAGS = 
 

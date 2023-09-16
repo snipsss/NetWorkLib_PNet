@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr
+CMAKE_SOURCE_DIR = /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/valeriikupriianov/Desktop/WIndowsPNetLib/build
+CMAKE_BINARY_DIR = /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Server.dir/depend.make
@@ -70,88 +70,88 @@ include CMakeFiles/Server.dir/progress.make
 include CMakeFiles/Server.dir/flags.make
 
 CMakeFiles/Server.dir/Server/Source.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/Server/Source.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Server/Source.cpp
+CMakeFiles/Server.dir/Server/Source.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Server/Source.cpp
 CMakeFiles/Server.dir/Server/Source.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Server.dir/Server/Source.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/Server/Source.cpp.o -MF CMakeFiles/Server.dir/Server/Source.cpp.o.d -o CMakeFiles/Server.dir/Server/Source.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Server/Source.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Server.dir/Server/Source.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/Server/Source.cpp.o -MF CMakeFiles/Server.dir/Server/Source.cpp.o.d -o CMakeFiles/Server.dir/Server/Source.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Server/Source.cpp
 
 CMakeFiles/Server.dir/Server/Source.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/Server/Source.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Server/Source.cpp > CMakeFiles/Server.dir/Server/Source.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Server/Source.cpp > CMakeFiles/Server.dir/Server/Source.cpp.i
 
 CMakeFiles/Server.dir/Server/Source.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/Server/Source.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/Server/Source.cpp -o CMakeFiles/Server.dir/Server/Source.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/Server/Source.cpp -o CMakeFiles/Server.dir/Server/Source.cpp.s
 
 CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.cpp
+CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.cpp
 CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o -MF CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o.d -o CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o -MF CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o.d -o CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.cpp
 
 CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.cpp > CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.cpp > CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.i
 
 CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/IpEndPointr.cpp -o CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/IpEndPointr.cpp -o CMakeFiles/Server.dir/PNet/IpEndPointr.cpp.s
 
 CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.cpp
+CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.cpp
 CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o -MF CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o.d -o CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o -MF CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o.d -o CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.cpp
 
 CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.cpp > CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.cpp > CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.i
 
 CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/MyClassSocket.cpp -o CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/MyClassSocket.cpp -o CMakeFiles/Server.dir/PNet/MyClassSocket.cpp.s
 
 CMakeFiles/Server.dir/PNet/NetWork.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/PNet/NetWork.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp
+CMakeFiles/Server.dir/PNet/NetWork.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp
 CMakeFiles/Server.dir/PNet/NetWork.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Server.dir/PNet/NetWork.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/NetWork.cpp.o -MF CMakeFiles/Server.dir/PNet/NetWork.cpp.o.d -o CMakeFiles/Server.dir/PNet/NetWork.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Server.dir/PNet/NetWork.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/NetWork.cpp.o -MF CMakeFiles/Server.dir/PNet/NetWork.cpp.o.d -o CMakeFiles/Server.dir/PNet/NetWork.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp
 
 CMakeFiles/Server.dir/PNet/NetWork.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/PNet/NetWork.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp > CMakeFiles/Server.dir/PNet/NetWork.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp > CMakeFiles/Server.dir/PNet/NetWork.cpp.i
 
 CMakeFiles/Server.dir/PNet/NetWork.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/PNet/NetWork.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp -o CMakeFiles/Server.dir/PNet/NetWork.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp -o CMakeFiles/Server.dir/PNet/NetWork.cpp.s
 
 CMakeFiles/Server.dir/PNet/Package.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/PNet/Package.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp
+CMakeFiles/Server.dir/PNet/Package.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp
 CMakeFiles/Server.dir/PNet/Package.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Server.dir/PNet/Package.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/Package.cpp.o -MF CMakeFiles/Server.dir/PNet/Package.cpp.o.d -o CMakeFiles/Server.dir/PNet/Package.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Server.dir/PNet/Package.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/Package.cpp.o -MF CMakeFiles/Server.dir/PNet/Package.cpp.o.d -o CMakeFiles/Server.dir/PNet/Package.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp
 
 CMakeFiles/Server.dir/PNet/Package.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/PNet/Package.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp > CMakeFiles/Server.dir/PNet/Package.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp > CMakeFiles/Server.dir/PNet/Package.cpp.i
 
 CMakeFiles/Server.dir/PNet/Package.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/PNet/Package.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/Package.cpp -o CMakeFiles/Server.dir/PNet/Package.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/Package.cpp -o CMakeFiles/Server.dir/PNet/Package.cpp.s
 
 CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o: CMakeFiles/Server.dir/flags.make
-CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o: /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.cpp
+CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o: /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.cpp
 CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o: CMakeFiles/Server.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o -MF CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o.d -o CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o -c /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o -MF CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o.d -o CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o -c /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.cpp
 
 CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.cpp > CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.cpp > CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.i
 
 CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/ValidatorIP.cpp -o CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/ValidatorIP.cpp -o CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.s
 
 # Object files for target Server
 Server_OBJECTS = \
@@ -173,7 +173,7 @@ bin/Server: CMakeFiles/Server.dir/PNet/Package.cpp.o
 bin/Server: CMakeFiles/Server.dir/PNet/ValidatorIP.cpp.o
 bin/Server: CMakeFiles/Server.dir/build.make
 bin/Server: CMakeFiles/Server.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable bin/Server"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable bin/Server"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Server.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -185,6 +185,6 @@ CMakeFiles/Server.dir/clean:
 .PHONY : CMakeFiles/Server.dir/clean
 
 CMakeFiles/Server.dir/depend:
-	cd /home/valeriikupriianov/Desktop/WIndowsPNetLib/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr /home/valeriikupriianov/Desktop/WIndowsPNetLib/build /home/valeriikupriianov/Desktop/WIndowsPNetLib/build /home/valeriikupriianov/Desktop/WIndowsPNetLib/build/CMakeFiles/Server.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/build/CMakeFiles/Server.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Server.dir/depend
 

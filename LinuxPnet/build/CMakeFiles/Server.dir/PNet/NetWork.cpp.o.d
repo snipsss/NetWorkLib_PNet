@@ -1,7 +1,7 @@
 CMakeFiles/Server.dir/PNet/NetWork.cpp.o: \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.cpp \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.cpp \
  /usr/include/stdc-predef.h \
- /home/valeriikupriianov/Desktop/WIndowsPNetLib/scr/PNet/NetWork.h \
+ /home/valeriikupriianov/Desktop/LinuxPnetLib/LinuxPnet/scr/PNet/NetWork.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
